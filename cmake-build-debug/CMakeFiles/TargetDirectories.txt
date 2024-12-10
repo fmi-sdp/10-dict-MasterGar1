@@ -1,0 +1,3 @@
+C:/Users/garig/Desktop/UNI/SDP/10-dict-MasterGar1/cmake-build-debug/CMakeFiles/10_dict_MasterGar1.dir
+C:/Users/garig/Desktop/UNI/SDP/10-dict-MasterGar1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garig/Desktop/UNI/SDP/10-dict-MasterGar1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
